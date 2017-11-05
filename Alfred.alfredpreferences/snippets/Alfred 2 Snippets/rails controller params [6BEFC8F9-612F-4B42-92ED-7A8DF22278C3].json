@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "  def day_params\n    params.require(:day).permit(:name)\n  end",
+    "dontautoexpand" : true,
+    "uid" : "6BEFC8F9-612F-4B42-92ED-7A8DF22278C3",
+    "name" : "rails controller params",
+    "keyword" : ""
+  }
+}

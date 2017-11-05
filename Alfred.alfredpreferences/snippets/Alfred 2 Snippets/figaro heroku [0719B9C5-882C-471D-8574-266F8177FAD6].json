@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "figaro heroku:set -e production",
+    "dontautoexpand" : true,
+    "uid" : "0719B9C5-882C-471D-8574-266F8177FAD6",
+    "name" : "figaro heroku",
+    "keyword" : ""
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "<div class=\"file-field input-field\">\n     <div class=\"btn\">\n       <span>Upload Profile Image<\/span>\n       <%= f.attachment_field :profile_image %>\n     <\/div>\n     <div class=\"file-path-wrapper\">\n       <input class=\"file-path validate\" type=\"text\">\n     <\/div>\n   <\/div>\n   <%= f.input :remote_profile_image_url, label: \"Or specify an image URL\" %>\n  <\/div>\n",
+    "dontautoexpand" : true,
+    "uid" : "A3DAFDC0-9396-47E6-8DB9-C9630011C38E",
+    "name" : "reflie upload",
+    "keyword" : ""
+  }
+}

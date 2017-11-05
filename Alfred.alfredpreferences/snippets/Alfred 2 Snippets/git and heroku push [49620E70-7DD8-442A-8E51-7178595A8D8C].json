@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "git push origin master && git push heroku master",
+    "dontautoexpand" : true,
+    "uid" : "49620E70-7DD8-442A-8E51-7178595A8D8C",
+    "name" : "git and heroku push",
+    "keyword" : ""
+  }
+}

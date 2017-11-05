@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "$(document).on \"turbolinks:load\", ->",
+    "dontautoexpand" : true,
+    "uid" : "E9743257-F783-43B9-B6E0-BD5D56838DAF",
+    "name" : "turbolinks coffee",
+    "keyword" : ""
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "git clone git@github.com:dorton\/redux-auth-boilerplate.git redux-auth-boilerplate",
+    "dontautoexpand" : true,
+    "uid" : "3DA01559-DD56-4076-A164-95CAFC3A3A66",
+    "name" : "redux-auth-sample",
+    "keyword" : ""
+  }
+}

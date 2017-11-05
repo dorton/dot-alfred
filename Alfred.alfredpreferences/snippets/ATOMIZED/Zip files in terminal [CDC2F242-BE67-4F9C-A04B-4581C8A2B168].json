@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "zip -r zipfile.zip . -x \".*\" -x \"*\/.*\" -x \"*nope\/*\"",
+    "uid" : "CDC2F242-BE67-4F9C-A04B-4581C8A2B168",
+    "name" : "Zip files in terminal",
+    "keyword" : "zip"
+  }
+}

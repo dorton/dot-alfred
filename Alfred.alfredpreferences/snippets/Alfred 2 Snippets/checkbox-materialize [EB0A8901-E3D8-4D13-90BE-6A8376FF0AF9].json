@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "$.each($(':checkbox'), function(k, v) { var label = $('label[for=\"' + this.id + '\"]');\n      $(this).insertBefore(label); });",
+    "dontautoexpand" : true,
+    "uid" : "EB0A8901-E3D8-4D13-90BE-6A8376FF0AF9",
+    "name" : "checkbox-materialize",
+    "keyword" : ""
+  }
+}

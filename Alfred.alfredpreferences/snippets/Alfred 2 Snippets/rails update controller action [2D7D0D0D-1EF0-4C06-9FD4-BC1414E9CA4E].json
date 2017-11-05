@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "  def update\n    @cohort = Cohort.find(params[:cohort_id])\n    @day = @cohort.days.find(params[:day_id])\n    @group = @day.groups.find(params[:id])\n\n    if @group.update(group_params)\n      redirect_to cohort_day_path(@cohort, @day), notice: \"hizaugh!\"\n    else\n      redirect_to cohort_day_path(@cohort, @day), notice: \"oooops!\"\n    end\n  end",
+    "dontautoexpand" : true,
+    "uid" : "2D7D0D0D-1EF0-4C06-9FD4-BC1414E9CA4E",
+    "name" : "rails update controller action",
+    "keyword" : ""
+  }
+}

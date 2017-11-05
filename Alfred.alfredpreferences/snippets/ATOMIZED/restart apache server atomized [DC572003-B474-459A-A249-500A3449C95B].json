@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "touch tmp\/restart.txt",
+    "dontautoexpand" : true,
+    "uid" : "DC572003-B474-459A-A249-500A3449C95B",
+    "name" : "restart apache server atomized",
+    "keyword" : ""
+  }
+}

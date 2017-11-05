@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "          <% if user_signed_in? %>\n            <li>\n            <%= link_to('Logout', destroy_user_session_path, :method => :delete) %>\n            <\/li>\n          <% else %>\n            <li>\n            <%= link_to('Login', new_user_session_path)  %>\n            <\/li>\n          <% end %>",
+    "dontautoexpand" : true,
+    "uid" : "0E9682F9-50A6-4AEA-8764-E7597F7302C5",
+    "name" : "devise sign_in sign_out",
+    "keyword" : ""
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "bundle exec rake db:migrate:with_data",
+    "dontautoexpand" : true,
+    "uid" : "18F7CFA1-85F8-4214-9C92-277060A6FE26",
+    "name" : "migration ATOMIZED",
+    "keyword" : ""
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "git add app\/assets\/... app\/assets\/javascripts\/... app\/assets\/javascripts\/components\/...",
+    "uid" : "B7FB5C15-0169-4066-A54D-D76A10670754",
+    "name" : "git merge conflict add on one line",
+    "keyword" : ""
+  }
+}

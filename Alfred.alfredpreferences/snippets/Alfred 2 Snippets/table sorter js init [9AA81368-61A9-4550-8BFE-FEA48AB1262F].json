@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "$(document).on('turbolinks:load', function() {\n  $(\"table\").tablesorter({\n    theme : \"materialize\",\n\n    widthFixed: true,\n    \/\/ widget code contained in the jquery.tablesorter.widgets.js file\n    \/\/ use the zebra stripe widget if you plan on hiding any rows (filter widget)\n    widgets : [ \"filter\", \"zebra\" ],\n\n    widgetOptions : {\n      \/\/ using the default zebra striping class name, so it actually isn't included in the theme variable above\n      \/\/ this is ONLY needed for materialize theming if you are using the filter widget, because rows are hidden\n      zebra : [\"even\", \"odd\"],\n\n      \/\/ reset filters button\n      filter_reset : \".reset\",\n\n      \/\/ extra css class name (string or array) added to the filter element (input or select)\n      \/\/ select needs a \"browser-default\" class or it gets hidden\n      filter_cssFilter: [\"\", \"\", \"browser-default\"]\n    }\n  })\n  .tablesorterPager({\n\n    \/\/ target the pager markup - see the HTML block below\n    container: $(\".ts-pager\"),\n\n    \/\/ target the pager page select dropdown - choose a page\n    cssGoto  : \".pagenum\",\n\n    \/\/ remove rows from the table to speed up the sort of large tables.\n    \/\/ setting this to false, only hides the non-visible rows; needed if you plan to add\/remove rows with the pager enabled.\n    removeRows: false,\n\n    \/\/ output string - default is '{page}\/{totalPages}';\n    \/\/ possible variables: {page}, {totalPages}, {filteredPages}, {startRow}, {endRow}, {filteredRows} and {totalRows}\n    output: '{startRow} - {endRow} \/ {filteredRows} ({totalRows})'\n\n  });\n});\n",
+    "dontautoexpand" : true,
+    "uid" : "9AA81368-61A9-4550-8BFE-FEA48AB1262F",
+    "name" : "table sorter js init",
+    "keyword" : ""
+  }
+}

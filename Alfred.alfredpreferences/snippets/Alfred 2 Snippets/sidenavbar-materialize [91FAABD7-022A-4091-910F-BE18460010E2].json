@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "$(\".button-collapse\").sideNav();",
+    "dontautoexpand" : true,
+    "uid" : "91FAABD7-022A-4091-910F-BE18460010E2",
+    "name" : "sidenavbar-materialize",
+    "keyword" : ""
+  }
+}

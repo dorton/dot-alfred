@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "rails generate devise User",
+    "dontautoexpand" : true,
+    "uid" : "D5D1CF74-7CAB-43D8-B197-C5623F1C681F",
+    "name" : "rails generate devise user",
+    "keyword" : ""
+  }
+}

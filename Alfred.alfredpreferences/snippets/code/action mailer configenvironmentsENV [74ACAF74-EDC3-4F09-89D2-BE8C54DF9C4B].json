@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "config.action_mailer.delivery_method = :smtp\nconfig.action_mailer.smtp_settings = {\n  address:              'smtp.gmail.com',\n  port:                 587,\n  domain:               'example.com',\n  user_name:            ENV[\"email\"],\n  password:              ENV[\"password\"],\n  authentication:       'plain',\n  enable_starttls_auto: true  }",
+    "dontautoexpand" : true,
+    "uid" : "74ACAF74-EDC3-4F09-89D2-BE8C54DF9C4B",
+    "name" : "action mailer config\/environments\/ENV",
+    "keyword" : ""
+  }
+}

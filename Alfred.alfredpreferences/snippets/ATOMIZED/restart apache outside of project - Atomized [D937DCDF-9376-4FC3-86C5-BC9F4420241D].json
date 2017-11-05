@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "sudo apachectl restart",
+    "dontautoexpand" : true,
+    "uid" : "D937DCDF-9376-4FC3-86C5-BC9F4420241D",
+    "name" : "restart apache outside of project - Atomized",
+    "keyword" : ""
+  }
+}

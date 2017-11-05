@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "fetch(URL)\n    .then(response => response.json())\n    .then(responseData => {\n      console.log(responseData)\n      this.setState({\n        THING: responseData.THING\n      })\n    })\n    .catch(function (error) {\n      console.log('error: ' + error)\n    })\n    console.log(this.state.THING)\n  }",
+    "dontautoexpand" : true,
+    "uid" : "2A019391-8ACF-49D1-8C24-D1B6516A0F56",
+    "name" : "fetch-get",
+    "keyword" : ""
+  }
+}

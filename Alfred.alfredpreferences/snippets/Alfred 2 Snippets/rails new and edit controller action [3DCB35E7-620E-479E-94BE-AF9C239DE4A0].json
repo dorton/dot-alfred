@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "  def new\n    @cohort = current_user.cohorts.find(params[:cohort_id])\n    @day = @cohort.days.new\n  end\n\n  def edit\n    @cohort = current_user.cohorts.find(params[:cohort_id])\n    @day = @cohort.days.find(params[:id])\n  end",
+    "dontautoexpand" : true,
+    "uid" : "3DCB35E7-620E-479E-94BE-AF9C239DE4A0",
+    "name" : "rails new and edit controller action",
+    "keyword" : ""
+  }
+}

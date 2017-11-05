@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "rails generate simple_form:install",
+    "dontautoexpand" : true,
+    "uid" : "0B55B7DA-82A7-4B67-98C4-AF58AE727A34",
+    "name" : "Simple Form Install",
+    "keyword" : ""
+  }
+}

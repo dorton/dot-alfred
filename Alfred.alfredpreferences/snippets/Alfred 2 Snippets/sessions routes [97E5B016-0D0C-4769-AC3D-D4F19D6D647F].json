@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "get 'sign_in' => 'sessions#new', as: :sign_in\npost 'sign_in' => 'sessions#create'\ndelete 'sign_in' => 'sessions#delete', as: :sign_out",
+    "dontautoexpand" : true,
+    "uid" : "97E5B016-0D0C-4769-AC3D-D4F19D6D647F",
+    "name" : "sessions routes",
+    "keyword" : ""
+  }
+}

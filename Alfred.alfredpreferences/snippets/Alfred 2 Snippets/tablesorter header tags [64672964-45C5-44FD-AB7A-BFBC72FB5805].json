@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "    <link rel=\"stylesheet\" href=\"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/jquery.tablesorter\/2.28.4\/css\/theme.materialize.min.css\" \/>\n    <link rel=\"stylesheet\" href=\"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/jquery.tablesorter\/2.28.4\/css\/jquery.tablesorter.pager.min.css\" \/>\n    <script src=\"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/jquery.tablesorter\/2.28.4\/js\/extras\/jquery.tablesorter.pager.min.js\"><\/script>\n    <script src=\"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/jquery.tablesorter\/2.28.4\/js\/jquery.tablesorter.widgets.min.js\"><\/script>\n    <script src=\"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/jquery.tablesorter\/2.28.4\/js\/jquery.tablesorter.min.js\"><\/script>",
+    "dontautoexpand" : true,
+    "uid" : "64672964-45C5-44FD-AB7A-BFBC72FB5805",
+    "name" : "tablesorter header tags",
+    "keyword" : ""
+  }
+}

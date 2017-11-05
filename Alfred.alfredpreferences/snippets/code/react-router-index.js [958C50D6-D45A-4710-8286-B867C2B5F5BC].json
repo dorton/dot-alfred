@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "import React from 'react';\nimport ReactDOM from 'react-dom';\nimport '.\/index.css';\nimport App from '.\/components\/App';\nimport registerServiceWorker from '.\/registerServiceWorker';\nimport {BrowserRouter, Route, Switch} from 'react-router-dom';\n\n\nReactDOM.render(\n  <BrowserRouter>\n    <Switch>\n      <Route path='\/' component={App} \/>\n    <\/Switch>\n  <\/BrowserRouter>\n  ,\n  document.getElementById('root'));\nregisterServiceWorker();",
+    "dontautoexpand" : true,
+    "uid" : "958C50D6-D45A-4710-8286-B867C2B5F5BC",
+    "name" : "react-router-index.js",
+    "keyword" : ""
+  }
+}

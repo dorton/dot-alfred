@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "respond_to do |format|\n      if @comment.save\n        format.html { redirect_to @project, notice: 'Comment was successfully created.' }\n        format.js\n      else\n        format.html { redirect_to @project, notice: 'Comment can not be blank.' }\n      end\n    end",
+    "dontautoexpand" : true,
+    "uid" : "29815A52-EA50-4D1E-A00B-571AC5D92CE9",
+    "name" : "respond_to",
+    "keyword" : ""
+  }
+}

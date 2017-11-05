@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "gem 'rails_admin', '~> 1.0'\ngem 'devise'\ngem 'rails_12factor', group: :production\ngem 'figaro'\ngem 'simple_form'\ngem 'pry-rails', :group => :development\ngem 'faker'\ngem 'jquery-ui-rails'\ngem 'materialize-sass'\ngem 'refile', github: 'refile\/refile', require: 'refile\/rails'\ngem 'refile-mini_magick', github: 'refile\/refile-mini_magick'\ngem 'sinatra', github: 'sinatra\/sinatra', branch: 'master'\ngem 'refile-postgres'  \ngem 'dynamic_form'\n",
+    "dontautoexpand" : true,
+    "uid" : "3DEC401E-E601-4836-BB36-98B545F6505F",
+    "name" : "rails_gems",
+    "keyword" : ""
+  }
+}

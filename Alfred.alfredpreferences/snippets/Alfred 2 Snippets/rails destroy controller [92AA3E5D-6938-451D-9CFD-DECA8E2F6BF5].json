@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "  def destroy\n    @cohort = current_user.cohorts.find(params[:cohort_id])\n\n    @cohort.days.find(params[:id]).destroy\n    redirect_to cohort_path(@cohort), notice: \"Demoed!\"\n  end",
+    "dontautoexpand" : true,
+    "uid" : "92AA3E5D-6938-451D-9CFD-DECA8E2F6BF5",
+    "name" : "rails destroy controller",
+    "keyword" : ""
+  }
+}

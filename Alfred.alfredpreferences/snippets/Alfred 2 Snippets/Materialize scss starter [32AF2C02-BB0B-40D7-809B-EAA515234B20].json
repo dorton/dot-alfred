@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "@import \"materialize\/components\/color\";\n$primary-color: color(\"blue\", \"lighten-2\") !default;\n$secondary-color: color(\"yellow\", \"base\") !default;\n@import \"https:\/\/fonts.googleapis.com\/icon?family=Material+Icons\";\n@import 'materialize';\n",
+    "dontautoexpand" : true,
+    "uid" : "32AF2C02-BB0B-40D7-809B-EAA515234B20",
+    "name" : "Materialize scss starter",
+    "keyword" : ""
+  }
+}

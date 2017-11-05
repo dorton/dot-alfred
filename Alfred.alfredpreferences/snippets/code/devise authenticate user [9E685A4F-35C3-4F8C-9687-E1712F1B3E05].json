@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "before_action :authenticate_user!\n",
+    "dontautoexpand" : true,
+    "uid" : "9E685A4F-35C3-4F8C-9687-E1712F1B3E05",
+    "name" : "devise authenticate user",
+    "keyword" : ""
+  }
+}

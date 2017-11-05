@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "before_action :set_{clipboard}, only: [:show, :edit, :update, :destroy]\n\n\n\nprivate\n    def set_{clipboard}\n      @{clipboard} = {clipboard}.find(params[:id])\n    end\n\n    def {clipboard}_params\n      params.require(:{clipboard}).permit(:first_name, :last_name, :want, :profile_image, :remote_profile_image_url)\n    end",
+    "dontautoexpand" : true,
+    "uid" : "1A70A6BE-0BA1-40D0-8697-9D82BBCE809B",
+    "name" : "controller strong params",
+    "keyword" : ""
+  }
+}

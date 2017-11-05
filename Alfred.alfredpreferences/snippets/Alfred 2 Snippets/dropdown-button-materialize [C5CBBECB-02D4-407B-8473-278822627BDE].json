@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "$(\".dropdown-button\").dropdown();\n",
+    "dontautoexpand" : true,
+    "uid" : "C5CBBECB-02D4-407B-8473-278822627BDE",
+    "name" : "dropdown-button-materialize",
+    "keyword" : ""
+  }
+}

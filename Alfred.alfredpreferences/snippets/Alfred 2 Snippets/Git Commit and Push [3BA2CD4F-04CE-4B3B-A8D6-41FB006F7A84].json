@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "git commit -a -m 'added gifs', git push origin gh-pages",
+    "dontautoexpand" : true,
+    "uid" : "3BA2CD4F-04CE-4B3B-A8D6-41FB006F7A84",
+    "name" : "Git Commit and Push",
+    "keyword" : "git"
+  }
+}

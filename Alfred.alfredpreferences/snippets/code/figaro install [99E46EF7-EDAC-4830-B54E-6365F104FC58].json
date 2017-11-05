@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "bundle exec figaro install",
+    "dontautoexpand" : true,
+    "uid" : "99E46EF7-EDAC-4830-B54E-6365F104FC58",
+    "name" : "figaro install",
+    "keyword" : ""
+  }
+}

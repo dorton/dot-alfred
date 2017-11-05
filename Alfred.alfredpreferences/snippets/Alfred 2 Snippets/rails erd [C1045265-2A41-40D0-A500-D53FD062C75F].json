@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "bundle exec erd --filetype=png",
+    "dontautoexpand" : true,
+    "uid" : "C1045265-2A41-40D0-A500-D53FD062C75F",
+    "name" : "rails erd",
+    "keyword" : ""
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "  def new\n    @user = User.new(\n      email: params[\"email\"],\n      password: params[\"password\"],\n      full_name: params[\"full_name\"],\n      message: params[\"message\"]\n    )\n    if @user.save\n      render \"new.json.jbuilder\", status: :created\n    else\n      render json: { errors: @user.errors.full_messages }, status: :unprocessable_entity\n    end\n  end\n\n  def login\n    @user = User.find_by(email: params[:email])\n    if @user && @user.authenticate(params[:password])\n      render \"login.json.jbuilder\", status: :accepted\n    else\n      render json: { errors: \"Error: Your email or password is incorrect.\" }, status: :unauthorized\n    end\n  end",
+    "dontautoexpand" : true,
+    "uid" : "841C1D16-BB99-4AD7-8ECA-4B5A40E9266F",
+    "name" : "rails_api_auth_users_controller",
+    "keyword" : ""
+  }
+}

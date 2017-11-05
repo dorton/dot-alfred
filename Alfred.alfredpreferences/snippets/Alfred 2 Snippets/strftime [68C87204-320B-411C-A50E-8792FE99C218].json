@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "strftime('%m\/%d\/%Y')",
+    "dontautoexpand" : true,
+    "uid" : "68C87204-320B-411C-A50E-8792FE99C218",
+    "name" : "strftime",
+    "keyword" : ""
+  }
+}

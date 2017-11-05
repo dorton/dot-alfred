@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "sudo vim \/etc\/hosts",
+    "dontautoexpand" : true,
+    "uid" : "642F621A-1844-4378-8A8A-8716849CCCCA",
+    "name" : "edit host files localhost",
+    "keyword" : ""
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "  handleSubmit(e){\n    e.preventDefault();\n    this.setState({title: e.target.value, body: e.target.value});\n    let listItem = JSON.stringify(this.state);\n\n    fetch(\"http:\/\/localhost:5678\/posts\/create\", {\n      method: \"POST\",\n      body: listItem,\n      headers: {\n        'Accept': 'application\/json',\n        'Content-Type': 'application\/json'\n      }\n    }\n    ).then(response => {\n      console.log(response, \"yay\");\n\n    }).catch(err => {\n      console.log(err, \"boo!\");\n    }); \n\n    this.setState({title: '', body: ''});\n  }\n",
+    "dontautoexpand" : true,
+    "uid" : "38B11FDB-7A96-4F0E-A7B7-9D95B65E8541",
+    "name" : "fetch-post-react-submit",
+    "keyword" : ""
+  }
+}

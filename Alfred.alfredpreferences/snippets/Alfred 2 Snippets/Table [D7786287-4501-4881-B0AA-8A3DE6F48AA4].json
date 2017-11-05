@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "------------ | ------------- | \nContent Cell | Content Cell  | \nContent Cell | Content Cell  | \n",
+    "dontautoexpand" : true,
+    "uid" : "D7786287-4501-4881-B0AA-8A3DE6F48AA4",
+    "name" : "Table",
+    "keyword" : "table"
+  }
+}

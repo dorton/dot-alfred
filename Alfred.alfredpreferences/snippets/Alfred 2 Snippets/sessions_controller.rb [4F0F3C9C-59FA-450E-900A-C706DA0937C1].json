@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "class SessionsController < ApplicationController\n  def new\n  end\n\n  def create\n    @current_user = User.find_by username: params[:username]\n    if @current_user && @current_user.authenticate(params[:password])\n      # YAY, LETS SIGN IN\n      session[:user_id] = @current_user.id\n\n      # make a decision WHERE to redirect them to\n      if session[:redirect_to].present?\n        redirect_to session[:redirect_to]\n      else\n        redirect_to root_path\n      end\n      session.delete(:redirect_to)\n    else\n      render :new\n    end\n  end\n\n  def delete\n    # session[:user_id] = nil\n    reset_session\n    redirect_to root_path\n  end\nend",
+    "dontautoexpand" : true,
+    "uid" : "4F0F3C9C-59FA-450E-900A-C706DA0937C1",
+    "name" : "sessions_controller.rb",
+    "keyword" : ""
+  }
+}

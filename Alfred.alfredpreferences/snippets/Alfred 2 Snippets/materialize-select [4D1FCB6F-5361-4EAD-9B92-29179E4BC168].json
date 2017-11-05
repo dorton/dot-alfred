@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "$(document).ready(function() {\n    $('select').material_select();\n  });",
+    "dontautoexpand" : true,
+    "uid" : "4D1FCB6F-5361-4EAD-9B92-29179E4BC168",
+    "name" : "materialize-select",
+    "keyword" : ""
+  }
+}

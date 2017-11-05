@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "json.success \"true\"\njson.email @user.email\njson.auth_token @user.auth_token",
+    "dontautoexpand" : true,
+    "uid" : "890195A1-2C6E-410A-BC65-6B930DFB9EDD",
+    "name" : "rails_api_auth_login.json.jbuilder",
+    "keyword" : ""
+  }
+}

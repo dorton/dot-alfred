@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "  def show\n    @day = Day.find(params[:id])\n    @cohort = @day.cohort\n    @users = @cohort.users\n\n  end",
+    "dontautoexpand" : true,
+    "uid" : "AA86B604-5C96-4F72-A1FC-C5FA32013F5C",
+    "name" : "rails show controller action",
+    "keyword" : ""
+  }
+}

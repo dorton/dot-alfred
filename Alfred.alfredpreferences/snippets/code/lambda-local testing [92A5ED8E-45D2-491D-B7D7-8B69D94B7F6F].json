@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "lambda-local -l index.js -h handler -e event.json",
+    "dontautoexpand" : true,
+    "uid" : "92A5ED8E-45D2-491D-B7D7-8B69D94B7F6F",
+    "name" : "lambda-local testing",
+    "keyword" : ""
+  }
+}

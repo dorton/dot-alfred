@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "{this.props.THINGS.map((thing) => )}",
+    "dontautoexpand" : true,
+    "uid" : "9AB5E912-7EC0-4C56-85BD-D5C28137F353",
+    "name" : "react-map-array",
+    "keyword" : ""
+  }
+}

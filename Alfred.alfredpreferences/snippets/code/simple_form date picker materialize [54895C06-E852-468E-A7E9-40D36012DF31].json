@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "    <%= f.input :start_date, as: 'string', label: 'Start Date', input_html: { class: 'datepicker' } %>\n",
+    "dontautoexpand" : true,
+    "uid" : "54895C06-E852-468E-A7E9-40D36012DF31",
+    "name" : "simple_form date picker materialize",
+    "keyword" : ""
+  }
+}

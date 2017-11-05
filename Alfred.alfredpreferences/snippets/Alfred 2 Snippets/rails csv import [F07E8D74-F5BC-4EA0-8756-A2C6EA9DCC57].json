@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "require 'csv'    \n\nCSV.foreach(filename, :headers => true) do |row|\n  Moulding.create!(row.to_hash)\nend",
+    "dontautoexpand" : true,
+    "uid" : "F07E8D74-F5BC-4EA0-8756-A2C6EA9DCC57",
+    "name" : "rails csv import",
+    "keyword" : ""
+  }
+}

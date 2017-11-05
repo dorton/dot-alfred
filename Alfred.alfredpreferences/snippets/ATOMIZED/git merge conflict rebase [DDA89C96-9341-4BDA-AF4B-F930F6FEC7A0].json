@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "git rebase origin\/develop",
+    "uid" : "DDA89C96-9341-4BDA-AF4B-F930F6FEC7A0",
+    "name" : "git merge conflict rebase",
+    "keyword" : ""
+  }
+}

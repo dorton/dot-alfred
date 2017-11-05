@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "<%= render partial: \"form\", locals: {zone: @zone} %>",
+    "dontautoexpand" : true,
+    "uid" : "0A17BC56-25AE-481E-9352-5C116EC651C8",
+    "name" : "render partial",
+    "keyword" : ""
+  }
+}

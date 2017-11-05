@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "  has_secure_password\n\n  before_validation :ensure_auth_token\n\n  validates_presence_of :email, :password_digest\n  validates_uniqueness_of :email\n  validates_format_of :email, :with => \/\\A[^@]+@([^@\\.]+\\.)+[^@\\.]+\\z\/\n\n  def ensure_auth_token\n    if self.auth_token.blank?\n      self.auth_token = User.generate_token\n    end\n  end\n\n  def self.generate_token\n    token = SecureRandom.hex\n    while User.exists?(auth_token: token)\n      token = SecureRandom.hex\n    end\n    token\n  end",
+    "dontautoexpand" : true,
+    "uid" : "F07D5539-8DD2-4FF5-947C-1083886C64C5",
+    "name" : "rails_api_auth_user_model",
+    "keyword" : ""
+  }
+}

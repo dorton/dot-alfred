@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "kill -9 PID",
+    "dontautoexpand" : true,
+    "uid" : "A52C318E-7059-4D8A-AD04-A2F285B022D6",
+    "name" : "port 3000 kill server 2",
+    "keyword" : ""
+  }
+}

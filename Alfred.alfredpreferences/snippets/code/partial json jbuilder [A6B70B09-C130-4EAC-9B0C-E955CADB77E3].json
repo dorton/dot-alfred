@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "json.extract! shelter, :id, :title, :body\n",
+    "dontautoexpand" : true,
+    "uid" : "A6B70B09-C130-4EAC-9B0C-E955CADB77E3",
+    "name" : "partial json jbuilder",
+    "keyword" : ""
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "@channel: Gentle reminder that NAME will be doing a guest lecture at 10am.  \n\nhttp:\/\/tiyspeakers.herokuapp.com\/speakers\/\n\nYou just got ….\n\n:caruso:\n\nGently Reminded",
+    "dontautoexpand" : true,
+    "uid" : "7267D281-114A-471D-8F48-31457C4BA46C",
+    "name" : "gentle_reminder",
+    "keyword" : "gentle_reminder"
+  }
+}

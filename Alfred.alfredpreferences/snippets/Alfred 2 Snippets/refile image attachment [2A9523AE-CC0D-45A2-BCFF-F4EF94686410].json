@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "<%= attachment_image_tag(@user, :profile_image, class: \"circle\", fallback: 'default_avatar.png') %>",
+    "dontautoexpand" : true,
+    "uid" : "2A9523AE-CC0D-45A2-BCFF-F4EF94686410",
+    "name" : "refile image attachment",
+    "keyword" : ""
+  }
+}

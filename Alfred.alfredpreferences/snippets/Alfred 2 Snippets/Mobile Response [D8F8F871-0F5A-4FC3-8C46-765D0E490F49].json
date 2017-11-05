@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "At this time we haven’t found a qualified Mobile Instructor, so while we can keep you on a waiting list (we’re actively looking for an instructor) I do have two or three individuals signed up for the Front End course that also want to build native apps.\n\nHere's what the JS instructor has to say about this topic:\n---\n\nThe browser is an omnipresent operating environment, which is an opportunity too fantastic to ignore. But efficiently writing code for different devices, screen sizes and resolutions, rendering engines, and browsers is a huge challenge and advantage over only working with iOS.  Currently chaos reigns supreme.\n\nThis is, I think, is the biggest and hardest problem. However, no other course is interfacing with this problem so directly.\n\nAs part of the curriculum, I can look at Appcelerator Titanium and PhoneGap (and other Mobile App Frameworks) that compile websites and JavaScript into native and hybrid mobile apps for several platforms (iOS, Android, Blackberry, etc) all from a single codebase. If this seems of value to you, I would highly encourage a phone call to discuss this further. :-)\n\n---\n\nPlease let me know your decision, I can call you tomorrow and we can discuss this more, or we can keep in touch once we have found our Mobile Instructor.\n\nTake a look at this video to watch how this is being used in real development - https:\/\/vimeo.com\/107885050.\n\nThanks,",
+    "dontautoexpand" : true,
+    "uid" : "D8F8F871-0F5A-4FC3-8C46-765D0E490F49",
+    "name" : "Mobile Response",
+    "keyword" : "mobile"
+  }
+}

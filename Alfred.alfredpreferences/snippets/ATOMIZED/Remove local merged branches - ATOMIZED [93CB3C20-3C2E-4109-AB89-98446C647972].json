@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "git branch --merged | grep -v \"\\*\" | grep -v master | grep -v develop | grep -v qa | xargs -n 1 git branch -d",
+    "dontautoexpand" : true,
+    "uid" : "93CB3C20-3C2E-4109-AB89-98446C647972",
+    "name" : "Remove local merged branches - ATOMIZED",
+    "keyword" : ""
+  }
+}

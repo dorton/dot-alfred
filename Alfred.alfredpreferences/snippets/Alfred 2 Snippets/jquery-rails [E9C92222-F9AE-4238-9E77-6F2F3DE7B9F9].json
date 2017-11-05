@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "$( document ).on('turbolinks:load', function() {\n  \/\/console.log(\"It works on each visit!\")\n})",
+    "dontautoexpand" : true,
+    "uid" : "E9C92222-F9AE-4238-9E77-6F2F3DE7B9F9",
+    "name" : "jquery-rails",
+    "keyword" : ""
+  }
+}

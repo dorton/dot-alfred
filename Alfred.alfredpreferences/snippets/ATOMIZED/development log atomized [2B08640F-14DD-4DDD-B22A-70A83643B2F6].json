@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "tail -200f log\/development.log",
+    "dontautoexpand" : true,
+    "uid" : "2B08640F-14DD-4DDD-B22A-70A83643B2F6",
+    "name" : "development log atomized",
+    "keyword" : ""
+  }
+}

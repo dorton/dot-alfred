@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "  before_action :configure_permitted_parameters, if: :devise_controller?\n\n  protected\n\n  def configure_permitted_parameters\n    devise_parameter_sanitizer.permit(:sign_up, keys: [:username])\n    devise_parameter_sanitizer.permit(:account_update, keys: [:username])\n  end",
+    "dontautoexpand" : true,
+    "uid" : "C3984DA4-3607-4056-A062-01BA99FE9F2F",
+    "name" : "devise params in application controller",
+    "keyword" : ""
+  }
+}

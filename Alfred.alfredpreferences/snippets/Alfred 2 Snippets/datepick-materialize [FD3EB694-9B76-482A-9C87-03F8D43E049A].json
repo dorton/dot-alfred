@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "$('.datepicker').pickadate({\n    selectMonths: true, \/\/ Creates a dropdown to control month\n    selectYears: 15 \/\/ Creates a dropdown of 15 years to control year\n  });",
+    "dontautoexpand" : true,
+    "uid" : "FD3EB694-9B76-482A-9C87-03F8D43E049A",
+    "name" : "datepick-materialize",
+    "keyword" : ""
+  }
+}

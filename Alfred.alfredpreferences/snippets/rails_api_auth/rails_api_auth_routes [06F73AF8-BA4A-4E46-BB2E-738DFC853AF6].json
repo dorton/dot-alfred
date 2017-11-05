@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "post \"register\", to: \"users#new\"\npost \"login\", to: \"users#login\"",
+    "dontautoexpand" : true,
+    "uid" : "06F73AF8-BA4A-4E46-BB2E-738DFC853AF6",
+    "name" : "rails_api_auth_routes",
+    "keyword" : ""
+  }
+}

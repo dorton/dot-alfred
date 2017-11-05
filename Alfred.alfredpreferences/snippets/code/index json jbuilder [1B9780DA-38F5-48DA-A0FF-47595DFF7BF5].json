@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "json.cache! @posts do\n  json.posts @posts do |post|\n    json.cache! post do\n      json.partial! post\n    end\n  end\nend\n\njson.meta do\n  json.result_count @posts.length\nend",
+    "dontautoexpand" : true,
+    "uid" : "1B9780DA-38F5-48DA-A0FF-47595DFF7BF5",
+    "name" : "index json jbuilder",
+    "keyword" : ""
+  }
+}

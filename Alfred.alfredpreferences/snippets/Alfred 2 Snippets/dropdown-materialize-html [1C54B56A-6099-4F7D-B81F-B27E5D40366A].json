@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : " <!-- Dropdown Trigger -->\n  <a class='dropdown-button btn' href='#' data-activates='dropdown1'>Drop Me!<\/a>\n\n  <!-- Dropdown Structure -->\n  <ul id='dropdown1' class='dropdown-content'>\n    <li><a href=\"#!\">one<\/a><\/li>\n    <li><a href=\"#!\">two<\/a><\/li>\n    <li class=\"divider\"><\/li>\n    <li><a href=\"#!\">three<\/a><\/li>\n  <\/ul>",
+    "dontautoexpand" : true,
+    "uid" : "1C54B56A-6099-4F7D-B81F-B27E5D40366A",
+    "name" : "dropdown-materialize-html",
+    "keyword" : ""
+  }
+}

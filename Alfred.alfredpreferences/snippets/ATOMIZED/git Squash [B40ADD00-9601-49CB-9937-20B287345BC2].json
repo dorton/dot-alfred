@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "git rebase -i head~2",
+    "uid" : "B40ADD00-9601-49CB-9937-20B287345BC2",
+    "name" : "git Squash",
+    "keyword" : ""
+  }
+}

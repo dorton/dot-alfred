@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "  def create\n    @cohort = Cohort.find(params[:cohort_id])\n    @day = @cohort.days.new(day_params)\n    @day.city_id = @cohort.city.id\n\n    if @day.save!\n      redirect_to @cohort, notice: 'Day Created.'\n    else\n      render @cohort, notice: 'oooops.'\n    end\n  end",
+    "dontautoexpand" : true,
+    "uid" : "2C2D6A3D-5EF3-4B16-935D-B1F4780A135A",
+    "name" : "rails create controller action",
+    "keyword" : ""
+  }
+}

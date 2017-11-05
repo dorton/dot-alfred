@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "rails generate devise:install",
+    "dontautoexpand" : true,
+    "uid" : "E7D4121A-D54D-4A8B-8FC1-3CEE0C5676C2",
+    "name" : "Devise Install",
+    "keyword" : ""
+  }
+}

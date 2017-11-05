@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "<!-- Modal Trigger -->\n  <a class=\"waves-effect waves-light btn\" href=\"#modal1\">Modal<\/a>\n\n  <!-- Modal Structure -->\n  <div id=\"modal1\" class=\"modal\">\n    <div class=\"modal-content\">\n      <h4>Modal Header<\/h4>\n      <p>A bunch of text<\/p>\n    <\/div>\n    <div class=\"modal-footer\">\n      <a href=\"#!\" class=\" modal-action modal-close waves-effect waves-green btn-flat\">Agree<\/a>\n    <\/div>\n  <\/div>",
+    "dontautoexpand" : true,
+    "uid" : "F26982C5-93DF-4D8C-9C77-16814E5DED97",
+    "name" : "modal-materialize-html",
+    "keyword" : ""
+  }
+}

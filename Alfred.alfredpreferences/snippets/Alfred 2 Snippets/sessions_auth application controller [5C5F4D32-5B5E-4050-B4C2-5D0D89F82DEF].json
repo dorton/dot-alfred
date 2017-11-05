@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "  before_action do\n    @current_user = User.find_by id: session[:user_id]\n  end\n\n  def authenticate_user!\n    if @current_user.nil?\n      session[:redirect_to] = request.path # \/products\n      redirect_to sign_in_path\n    end\n  end\n\n  def current_user\n    @current_user\n  end\n  helper_method :current_user\n",
+    "dontautoexpand" : true,
+    "uid" : "5C5F4D32-5B5E-4050-B4C2-5D0D89F82DEF",
+    "name" : "sessions_auth application controller",
+    "keyword" : ""
+  }
+}

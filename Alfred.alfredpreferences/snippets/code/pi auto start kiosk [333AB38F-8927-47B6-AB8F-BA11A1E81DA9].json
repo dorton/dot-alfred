@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "sudo nano ~\/.config\/lxsession\/LXDE-pi\/autostart\n@xset s off\n@xset -dpms\n@xset s noblank\n@chromium-browser --noerrdialogs --incognito --kiosk http:\/\/dakboard.com\/app\/?p=YOUR_PRIVATE_URL",
+    "dontautoexpand" : true,
+    "uid" : "333AB38F-8927-47B6-AB8F-BA11A1E81DA9",
+    "name" : "pi auto start kiosk",
+    "keyword" : ""
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "$(document).on('turbolinks:load', function() {\n  \/\/ your setup code here...\n});",
+    "dontautoexpand" : true,
+    "uid" : "9A1B43D5-2FFD-4DCE-9DBD-705CAB498F10",
+    "name" : "turbolinks",
+    "keyword" : ""
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "$('input.autocomplete').autocomplete({\n    data: {\n      \"Apple\": null,\n      \"Microsoft\": null,\n      \"Google\": 'http:\/\/placehold.it\/250x250'\n    },\n    limit: 20, \/\/ The max amount of results that can be shown at once. Default: Infinity.\n  });",
+    "dontautoexpand" : true,
+    "uid" : "31D02A47-190E-4928-99CB-B89E464D78E4",
+    "name" : "autocomplete-materialize",
+    "keyword" : ""
+  }
+}

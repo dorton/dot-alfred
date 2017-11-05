@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "lsof -wni tcp:3000",
+    "dontautoexpand" : true,
+    "uid" : "0DFA604A-72DD-49A3-8E60-42E8E3FFAAAB",
+    "name" : "port 3000 kill server 1",
+    "keyword" : ""
+  }
+}

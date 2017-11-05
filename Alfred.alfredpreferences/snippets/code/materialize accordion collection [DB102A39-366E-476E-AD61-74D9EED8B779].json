@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "  <ul class=\"collapsible\" data-collapsible=\"accordion\">\n    <li>\n      <div class=\"collapsible-header\"><i class=\"material-icons\">filter_drama<\/i>First<\/div>\n      <div class=\"collapsible-body\"><span>Lorem ipsum dolor sit amet.<\/span><\/div>\n    <\/li>\n    <li>\n      <div class=\"collapsible-header\"><i class=\"material-icons\">place<\/i>Second<\/div>\n      <div class=\"collapsible-body\"><span>Lorem ipsum dolor sit amet.<\/span><\/div>\n    <\/li>\n    <li>\n      <div class=\"collapsible-header\"><i class=\"material-icons\">whatshot<\/i>Third<\/div>\n      <div class=\"collapsible-body\"><span>Lorem ipsum dolor sit amet.<\/span><\/div>\n    <\/li>\n  <\/ul>\n        ",
+    "dontautoexpand" : true,
+    "uid" : "DB102A39-366E-476E-AD61-74D9EED8B779",
+    "name" : "materialize accordion collection",
+    "keyword" : ""
+  }
+}

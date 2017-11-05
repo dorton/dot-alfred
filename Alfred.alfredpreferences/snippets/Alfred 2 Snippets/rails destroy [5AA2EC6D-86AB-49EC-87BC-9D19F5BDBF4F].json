@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "<%= link_to 'Destroy', article_path(article),\n              method: :delete,\n              data: { confirm: 'Are you sure?' } %>",
+    "dontautoexpand" : true,
+    "uid" : "5AA2EC6D-86AB-49EC-87BC-9D19F5BDBF4F",
+    "name" : "rails destroy",
+    "keyword" : ""
+  }
+}
